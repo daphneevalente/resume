@@ -79,7 +79,7 @@
     {
       "name": "EFAP",
       "position": "Ambassadrice",
-      "startDate": "Depuis 2023",
+      "startDate": "2023-01-01",
       "endDate": "",
       "highlights": [
         "Salons de l’orientation et Journées Portes Ouvertes : sens de l’écoute et du relationnel, cohérence dans mes discours"
@@ -121,8 +121,8 @@
     {
       "institution": "ECOLE DE COMMUNICATION, EFAP Strasbourg",
       "startDate": "2023-01-01",
-      "endDate": "dipme en cours d'obtention",
-      "score": "",
+      "endDate": "",
+      "score": "diplôme en cours d'obtention",
       "courses": []
     }
   ],
