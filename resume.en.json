@@ -1,11 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Ludovic Valente",
+    "name": "Daphnée Valente",
     "image": "https://www.libravatar.org/avatar/0c1ddc83408f6f3966e7999083692f6d42832e1054640f4cc0a6e45aa2bc6779?d=retro&s=80",
-    "email": "ludovic.valente@gmail.com",
+    "email": "daphnee.valente@gmail.com",
     "phone": "",
-    "url": "https://scora.watch",
+    "url": "https://www.linkedin.com/in/daphn%C3%A9e-valente/",
     "location": {
       "countryCode": "LU",
       "address": "Luxembourg"
@@ -42,7 +42,7 @@
         "url": "index-en.html"
       }
     ],
-    "label": "Fullstack software engineer @SFΞIR Luxembourg",
+    "label": "Student in communication",
     "summary": "Senior Application Fullstack Developer, IT architect, VueJs Trainer, tech lead, Flutter/Android developer.\n\nFocused on modern architecture around mobility and web requirements.\nI create modern apps with emergent technologies relying on efficient architecture.\n\nMain/favorite skills : Java, SpringBoot, Android KMP, ElasticSearch, NodeJs, VueJs, Flutter"
   },
   "work": [
