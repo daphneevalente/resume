@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Daphnée Valente",
-    "image": "https://www.libravatar.org/avatar/0c1ddc83408f6f3966e7999083692f6d42832e1054640f4cc0a6e45aa2bc6779?d=retro&s=80",
+    "image": "https://www.libravatar.org/avatar/bb9a1920143a849a75f0221641b671c8?d=identicon&s=80",
     "email": "daphnee.valente@gmail.com",
     "phone": "",
     "url": "https://www.linkedin.com/in/daphn%C3%A9e-valente/",
@@ -38,13 +38,13 @@
       }
     ],
     "label": "Student in communication",
-    "summary": "Senior Application Fullstack Developer, IT architect, VueJs Trainer, tech lead, Flutter/Android developer.\n\nFocused on modern architecture around mobility and web requirements.\nI create modern apps with emergent technologies relying on efficient architecture.\n\nMain/favorite skills : Java, SpringBoot, Android KMP, ElasticSearch, NodeJs, VueJs, Flutter"
+    "summary": "Student"
   },
   "experiences": [
     {
       "name": "BDE EDH STRASBOURG",
       "position": "responsable partenariats",
-      "startDate": "2024",
+      "startDate": "2024-01-01",
       "highlights": [
         "gestion de budget, de planning, des réseaux sociaux",
         "gestion des partenaires",
@@ -56,16 +56,16 @@
     {
       "name": "NOVOTEL METZ-AMNEVILLE",
       "position": "RECEPTIONNISTE ET SERVEUSE ",
-      "startDate": "2024-06",
-      "endDate": "2024-08",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-01",
       "location": "France",
       "summary": "Managing a team of 10 collaborators, in charge of career follow-up, training, mission and clients, participation in Luxembourg agency decisions."
     },
     {
       "name": "Le Grub",
       "position": " Assistante cheffe de projet digital",
-      "startDate": "2024-04",
-      "endDate": "2024-06",
+      "startDate": "2024-04-01",
+      "endDate": "2024-06-01",
       "highlights": [
         "Création de contenus : DrawMyLife, Journée de l’Environnement",
         "Conception visuelle et montage vidéo ((Premiere Pro, Descript, Cap Cut)",
@@ -91,7 +91,7 @@
     {
       "name": "Association caritative",
       "position": "Benevole",
-      "startDate": "2021",
+      "startDate": "2021-01-01",
       "endDate": "",
       "highlights": [
         "Accueil des bénéficiaires et distributions alimentaires",
@@ -103,8 +103,8 @@
     },
     {
       "position": "MEMBRE ACTIVE",
-      "startDate": "2021",
-      "endDate": "2023",
+      "startDate": "2021-01-01",
+      "endDate": "2023-01-01",
       "highlights": [
         "Campagne électorale (vidéo, professions de foi...)",
         "Gestion du compte Instagram",
@@ -120,7 +120,7 @@
   "education": [
     {
       "institution": "ECOLE DE COMMUNICATION, EFAP Strasbourg",
-      "startDate": "2023  ",
+      "startDate": "2023-01-01",
       "endDate": "dipme en cours d'obtention",
       "score": "",
       "courses": []
@@ -134,24 +134,6 @@
       "releaseDate": "2024-09-03",
       "url": "https://play.google.com/store/apps/details?id=fr.geoking.tennis.scoreboard.wear",
       "summary": "Tennis scoreboard for watch on Google Android WearOS"
-    },
-    {
-      "releaseDate": "2025-01-02",
-      "url": "https://www.npmjs.com/package/jsonresume-theme-ludoo",
-      "name": "Theme for resume theme using json-resume format",
-      "summary": "Theme for resume theme using json-resume format, including i18n"
-    },
-    {
-      "releaseDate": "2019-10-09",
-      "url": "https://www.npmjs.com/package/passport-geocaching",
-      "name": "Passport for Geocaching",
-      "summary": "Geocaching authentication strategy for Passport and Node.js"
-    },
-    {
-      "releaseDate": "2011-10-01",
-      "url": "https://chrome.google.com/webstore/detail/hhcknjkmaaeinhdjgimjnophgpbdgfmg",
-      "name": "ReaderPlus Chrome Extension",
-      "summary": "Extension Chrome pour Google Reader.\nAméliore la navigation et la présentation en ajoutant un thème, des fonctions de partage vers les sites sociaux, un aperçu rapide des articles, des icônes, un filtre, et plus encore....\nJusqu'à 80 000 utilisateurs avant la fermeture de GoogleReader.\nProjet transféré à une équipe chinoise."
     }
   ],
   "skills": [
@@ -273,111 +255,10 @@
       "url": "https://github.com/ludoo0d0a/gorilla",
       "endDate": "2024-04-30",
       "description": "JS framework to automate task in Web"
-    },
-    {
-      "name": "GCWizard",
-      "startDate": "2021-03-31",
-      "url": "https://gcwizard.net/",
-      "endDate": "2022-08-01",
-      "highlights": [
-        "Joined the team composed of great german guys",
-        "Improved search engine",
-        "Initiate translation engine and translators community and tools - Thanks crowdin",
-        "Steganography module"
-      ],
-      "description": "This mobile app contains numerous offline tools, tables and calculators to support the active geocacher in the field or at home in solving puzzles or calculations.\n\nAvailable for iOs, Android and Web."
-    },
-    {
-      "startDate": "2015-09-30",
-      "url": "https://www.npmjs.com/~ludoo",
-      "endDate": "2015-09-30",
-      "highlights": [
-        "javascript",
-        "oauth2",
-        "npm",
-        "nodejs",
-        "backbone"
-      ],
-      "name": "Npm/nodejs library for Backbone et Passport authentication",
-      "description": "Development and distribution on npmjs and github of NodeJs components.\\n- backgrid (grid / backbone): CommonJs compatible fork.\\n- Passport.js strategy for geocaching\\n- Geocaching NodeJs API"
-    },
-    {
-      "startDate": "2014-03-31",
-      "url": "http://www.geoking.fr",
-      "endDate": "2020-03-31",
-      "highlights": [
-        "Logbook creator widely used by community"
-      ],
-      "name": "Geocaching Tools",
-      "description": "Site Web contenant des outils online pour la communauté geocaching.\n\npitaso.com devenu maintenant geoking.fr"
-    },
-    {
-      "startDate": "2012-07-31",
-      "name": "Rapid plateform for iPhone application",
-      "description": "Rapid plateform for iPhone application"
-    },
-    {
-      "startDate": "2010-08-31",
-      "url": "https://chrome.google.com/webstore/detail/kieaniodbboioemmcghcbkfgpmopffdc",
-      "highlights": [
-        "Agreement from Pont-Et-Chaussee to access their API"
-      ],
-      "name": "Eye Traffic - Lux traffic info",
-      "description": "Chrome Extension to monitor traffic info in Luxembourg."
-    },
-    {
-      "startDate": "2015-10-31",
-      "url": "http://www.7amnevillois.fr",
-      "endDate": "2022-08-31",
-      "name": "Site du club de Handball de Amnéville",
-      "description": "Web site building for the Amnéville handball club.\nPromotion of the club, involvement of the committee in this new communication tool, promotion of our teams in N3 and national, news, results and calendars of the different teams"
-    },
-    {
-      "startDate": "2009-12-31",
-      "url": "https://chrome.google.com/webstore/detail/hhcknjkmaaeinhdjgimjnophgpbdgfmg",
-      "endDate": "2013-05-31",
-      "name": "ReaderPlus Chrome extension",
-      "description": "Extension Chrome pour Google Reader.\nAméliore la navigation et la présentation en ajoutant un thème, des fonctions de partage vers les sites sociaux, un aperçu rapide des articles, des icônes, un filtre, et plus encore....\nJusqu'à 80 000 utilisateurs avant la fermeture de GoogleReader.\nProjet transféré à une équipe chinoise.",
-      "highlights": [
-        "HTML5",
-        "CSS3",
-        "Javascript",
-        "Available on Chrome Store",
-        "Over 80000 users",
-        "Post in Lifehacker : https://lifehacker.com/reader-plus-is-a-chrome-extension-that-adds-missing-fea-5798022",
-        "Project sold",
-        "More than 600 issues/requests"
-      ]
-    },
-    {
-      "startDate": "2012-09-30",
-      "url": "http://apps.microsoft.com/windows/fr-be/app/cityreal/8c70e367-e1bd-4890-8519-857389282fe1",
-      "endDate": "2012-10-31",
-      "highlights": [
-        "HTML5",
-        "CSS3",
-        "Javascript",
-        "WebJs",
-        "Visual Studio"
-      ],
-      "name": "Windows8 Application",
-      "description": "Creation and publication of a Windows 8 mobile application.\nReal estate management for a Parisian agency"
-    },
-    {
-      "startDate": "2012-06-30",
-      "url": "http://habiter.lu",
-      "endDate": "2012-06-30",
-      "highlights": [
-        "PHP",
-        "HTML",
-        "CSS"
-      ],
-      "name": "Facelift site d'annonces immobilières",
-      "description": "Facelift and addition of multiple features to Habiter.lu website dedicated to real estate listings for Editus."
     }
   ],
   "meta": {
-    "version": "v2.0.6",
+    "version": "v1.0.0",
     "theme": "ludoo",
     "languages": "en,fr",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
