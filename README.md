@@ -1,9 +1,9 @@
-# Resume of Ludovic Valente
+# Resume of Daphnée Valente
 
 Using JsonResume standard, I host my own version in 2 languages
 It produces a HTML and PDF themed-version in 2 languages: EN,FR
 
-https://ludoo0d0a.github.io/resume/
+https://daphneevalente.github.io/resume/
 
 ## Features
 - Internationalization
