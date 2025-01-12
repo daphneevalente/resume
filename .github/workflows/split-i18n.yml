@@ -31,6 +31,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull
           git add resume.en.json resume.fr.json
           git commit -m "chore: update language-specific resume files" || exit 0
           git push
