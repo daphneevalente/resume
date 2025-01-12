@@ -35,15 +35,6 @@ jobs:
           git commit -m "chore: update language-specific resume files" || exit 0
           git push
 
-      # Update gist resume.json : https://gist.github.com/ludoo0d0a/b7e4355cd0d2722f25002eca525ea262
-      # to see changes into jsonresume.org website : https://registry.jsonresume.org/ludoo0d0a
-      - name: Update Gist
-        env:
-          GH_TOKEN: ${{ secrets.GIST_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
-        run: |
-          gh gist edit $GIST_ID -f resume.json resume.en.json
-
       - name: Install
         run: |
           npm install -g resume-cli
