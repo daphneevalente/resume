@@ -7,24 +7,19 @@
     "phone": "",
     "url": "https://www.linkedin.com/in/daphn%C3%A9e-valente/",
     "location": {
-      "countryCode": "LU",
-      "address": "Luxembourg"
+      "countryCode": "FR et LU",
+      "address": "France et Luxembourg"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "ludovicvalente",
-        "url": "https://www.linkedin.com/in/ludovicvalente/"
+        "username": "daphneevalente",
+        "url": "https://www.linkedin.com/in/daphneevalente/"
       },
       {
         "network": "Github",
-        "username": "ludoo0d0a",
-        "url": "https://github.com/ludoo0d0a"
-      },
-      {
-        "network": "Twitter",
-        "username": "ludoo0d0a",
-        "url": "https://twitter.com/ludoo0d0a"
+        "username": "daphneevalente",
+        "url": "https://github.com/daphneevalente"
       },
       {
         "network": "PDF",
@@ -45,151 +40,80 @@
     "label": "Student in communication",
     "summary": "Senior Application Fullstack Developer, IT architect, VueJs Trainer, tech lead, Flutter/Android developer.\n\nFocused on modern architecture around mobility and web requirements.\nI create modern apps with emergent technologies relying on efficient architecture.\n\nMain/favorite skills : Java, SpringBoot, Android KMP, ElasticSearch, NodeJs, VueJs, Flutter"
   },
-  "work": [
+  "experiences": [
     {
-      "name": "SFEIR",
-      "position": "Fullstack software engineer",
-      "startDate": "2017-08-31",
+      "name": "BDE EDH STRASBOURG",
+      "position": "responsable partenariats",
+      "startDate": "2024",
       "highlights": [
-        "java",
-        "SpringBoot",
-        "Kafka",
-        "Cloud",
-        "Android Mobile"
+        "gestion de budget, de planning, des réseaux sociaux",
+        "gestion des partenaires",
+        "travail de groupe et profesionnalisme"
       ],
-      "url": "https://www.linkedin.com/company/sfeir/",
-      "location": "Luxembourg",
+      "location": " EFAP Strasbourg",
       "summary": "Consultant in software development and architecture"
     },
     {
-      "name": "SFEIR",
-      "position": "Engineer manager",
-      "startDate": "2018-01-31",
-      "endDate": "2024-12-31",
-      "url": "https://www.linkedin.com/company/sfeir/",
-      "location": "Luxembourg",
-      "highlights": [
-        "follow up",
-        "carreer",
-        "HR",
-        "formation"
-      ],
+      "name": "NOVOTEL METZ-AMNEVILLE",
+      "position": "RECEPTIONNISTE ET SERVEUSE ",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "location": "France",
       "summary": "Managing a team of 10 collaborators, in charge of career follow-up, training, mission and clients, participation in Luxembourg agency decisions."
     },
     {
-      "name": "Temenos",
-      "position": "Senior Software Developer",
-      "startDate": "2024-07-31",
-      "endDate": "2024-12-31",
+      "name": "Le Grub",
+      "position": " Assistante cheffe de projet digital",
+      "startDate": "2024-04",
+      "endDate": "2024-06",
       "highlights": [
-        "java",
-        "SpringBoot",
-        "keycloak",
-        "jwt",
-        "jsonApi",
-        "jsonSchema",
-        "unit testing",
-        "integration testing"
+        "Création de contenus : DrawMyLife, Journée de l’Environnement",
+        "Conception visuelle et montage vidéo ((Premiere Pro, Descript, Cap Cut)",
+        "Gestion des publications sur Instagram, LinkedIn, YouTube...",
+        "Travail en équipe (brainstorming, analyse des besoins, feedbacks...)"
       ],
       "url": "https://www.linkedin.com/company/temenos/",
       "location": "Bertrange, Luxembourg",
       "summary": "As a senior dev, my mission for Sfeir is to help and create a data platform upon existing Multifonds Temenos data system, to provide custom portals."
     },
     {
-      "name": "Foyer Group",
-      "position": "Architect, Expert leader",
-      "startDate": "2023-02-28",
-      "endDate": "2024-06-01",
+      "name": "EFAP",
+      "position": "Ambassadrice",
+      "startDate": "Depuis 2023",
+      "endDate": "",
       "highlights": [
-        "AWS",
-        "SpringBoot",
-        "scala",
-        "CI/CD",
-        "Kubernetes",
-        "argoCD",
-        "JWT"
+        "Salons de l’orientation et Journées Portes Ouvertes : sens de l’écoute et du relationnel, cohérence dans mes discours"
       ],
       "url": "https://www.linkedin.com/company/foyer-assurances/",
       "location": "Leudelange, Luxembourg",
       "summary": "I joined architecture team MEO to improve quality, architecture and processus around software production inside Foyer Group.\nA lot of interesting challenges here !"
     },
     {
-      "name": "Fundsquare",
-      "position": "Ingenieur développement fullstack",
-      "startDate": "2017-08-31",
-      "endDate": "2023-02-28",
+      "name": "Association caritative",
+      "position": "Benevole",
+      "startDate": "2021",
+      "endDate": "",
       "highlights": [
-        "SpringBoot",
-        "Camunda BPM",
-        "Kafka",
-        "Trifacta",
-        "Camel",
-        "MsSql",
-        "Mongo",
-        "Elasticsearch",
-        "Kubernetes",
-        "AKS",
-        "Azure",
-        "ESB",
-        "Openshift",
-        "React",
-        "GraphQL",
-        "NodeJs"
+        "Accueil des bénéficiaires et distributions alimentaires",
+        "Gestion des stocks alimentaires et vestimtaires"
       ],
       "url": "https://www.linkedin.com/company/fundsquare/",
       "location": "Luxembourg",
       "summary": "As a senior dev, I mostly manage the collection platform to get data, processing, wrangling, cleansing.\nMain collected data are Priips EPT, Mifid EMT, EET, ...\n\nAs a tech lead, I coordinate teams, draft architecture, and organize stuff with all actors to reach a stable and technically viable solution, matching the target vision.\n\nI design and dev most of the patterns like data layers, orchestation, choreography, distributed transactions, communication event driven, business monitoring, contract spec with json schema, code generators for microservices ready to deploy and for API clients, tooling devops scripts for local dev, delivery and troubleshooting.\n\nThe stack is composed of several layers around these main technologies : \n- SpringBoot, Camunda BPM, Kafka, Trifacta, Camel, MsSql, Mongo, Elasticsearch, Kubernetes, AKS, ESB, Openshift, React, GraphQL , NodeJs\n\nWe are working in collaboration with Bourse du Luxembourg architecture team to evolve to a modern solution, cloud-native in Azure.\n\nIn 5 years, we fully moved from legacy tomcat+mssql+esb to distributed event driven micro services+mongo+kafka cloud native.\n\nSince Fundsquare's acquisition by Fe Fundinfo, short target is to move completely cloud native, and integrate their platform."
     },
     {
-      "position": "Senior Software Developer",
-      "startDate": "2021-01-31",
-      "endDate": "2021-10-31",
+      "position": "MEMBRE ACTIVE",
+      "startDate": "2021",
+      "endDate": "2023",
       "highlights": [
-        "Spring",
-        "Kafka",
-        "Mongo",
-        "Azure",
-        "Openshift"
+        "Campagne électorale (vidéo, professions de foi...)",
+        "Gestion du compte Instagram",
+        "Gestion de projets et de budgets : création et vente de sweats, organisation du bal ..."
       ],
       "url": "https://www.linkedin.com/company/luxembourg-stock-exchange/",
       "location": "Luxembourg",
       "name": "Luxembourg Stock Exchange",
       "summary": "Part time between LuxSE and Fundsquare (for Sfeir)\n\nThe goal is to develop a new common set of tools.\nThese services are shared by LuxSE and Fundsquare.\nHosted in Azure, relying on Spring - Kafka - Mongo, I'm in charge of the development of several services.\nFTP connector, API Catalog are the first services of this platform."
-    },
-    {
-      "name": "SOGETI Luxembourg",
-      "position": "Fullstack software engineer",
-      "startDate": "2017-06-30",
-      "endDate": "2017-08-31",
-      "highlights": [
-        "Java",
-        "Spring",
-        "Eclipse",
-        "Xml",
-        "AkomaNtoso",
-        "Xsd",
-        "Dtd",
-        "Jira"
-      ],
-      "url": "https://www.linkedin.com/company/sogeti-luxembourg/",
-      "location": "Bertrange, Luxembourg",
-      "summary": "Conversion tool for European Parliament.\n\nThis MsWord to Xml engine is used in production to produce xml document compliant with rules provided by EP.\nI built the engine core on the project startup. \nDuring these 3 months, I put the project a level higher in terms of readability, testing, maintenance, new format support.\n\nQuality improvement, testing support, improve rules engine, rewrite rules and transformers for the 2 main formats.\n\nJava, Spring, Eclipse, Xml, AkomaNtoso, Xsd, Dtd, Jira"
-    },
-    {
-      "name": "Sogeti luxembourg",
-      "position": "Fullstack software engineer",
-      "startDate": "2001-06-30",
-      "endDate": "2017-08-31",
-      "highlights": [
-        "Java",
-        "Spring",
-        "nodejs",
-        "Backbone",
-        "Android"
-      ],
-      "url": "https://www.linkedin.com/company/sogeti-luxembourg/",
-      "location": "Bertrange, Luxembourg",
-      "summary": "I worked for european and national institutions as Fullstack software engineer.\nProjects are mainly focused on web and mobile technologies.\nJava+Spring, nodejs, Backbone, Android..., I follow modern standards and new performant libraires and frameworks.\nIntegrated into several teams from multiple clients,I like to work with people of different multi cultural backgrounds.\n\nSee details above :"
     },
     {
       "name": "SOGETI Luxembourg",
