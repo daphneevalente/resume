@@ -126,8 +126,8 @@
       "en_summary": "Part time between LuxSE and Fundsquare (for Sfeir)\n\nThe goal is to develop a new common set of tools.\nThese services are shared by LuxSE and Fundsquare.\nHosted in Azure, relying on Spring - Kafka - Mongo, I'm in charge of the development of several services.\nFTP connector, API Catalog are the first services of this platform.",
       "url": "https://www.linkedin.com/company/luxembourg-stock-exchange/",
       "location": "Luxembourg"
-    },
-
+    }
+  ],
   "volunteer": [],
   "education": [
     {
